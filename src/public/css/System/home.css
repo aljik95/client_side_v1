@@ -1,0 +1,21 @@
+html ,a{
+    all: revert;
+}
+
+
+/* Side-Bar */
+.mgi-icon{
+    width:25px;
+    height:25px;
+    display: inline;
+    margin-right:10px;
+}
+
+ul
+{
+    list-style-type: none
+}
+
+.sys_item{
+    padding-left: 30px;
+}
